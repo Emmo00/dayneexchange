@@ -10,7 +10,7 @@ import NavBarComponent from '@/components/layout/NavBarComponent.vue';
           <div class="grid gap-6 lg:grid-cols-[1fr_400px] lg:gap-12 xl:grid-cols-[1fr_600px]">
             <div class="flex flex-col justify-center space-y-4 text-white">
               <div class="space-y-2">
-                <h1 class="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none">
+                <h1 class="text-5xl font-bold tracking-tighter sm:text-5xl xl:text-6xl pt-6">
                   Join the revolution of digital trading
                 </h1>
                 <p class="max-w-[600px] text-white/80 md:text-xl">
@@ -23,7 +23,7 @@ import NavBarComponent from '@/components/layout/NavBarComponent.vue';
                   href="#">
                   Get Started
                 </a>
-                <a class="inline-flex h-10 items-center justify-center rounded-md border border-white bg-transparent px-8 text-sm font-medium text-white shadow-sm transition-colors hover:bg-white hover:text-[#1abc9c] focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
+                <a class="inline-flex h-10 items-center justify-center rounded-md border border-foreground  text-foreground bg-transparent px-8 text-sm font-medium text-white shadow-sm transition-colors hover:bg-white hover:text-[#1abc9c] focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
                   href="#">
                   Learn More
                 </a>
