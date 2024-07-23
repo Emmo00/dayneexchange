@@ -103,7 +103,7 @@ import NavBarComponent from '@/components/layout/NavBarComponent.vue';
                       data-orientation="vertical" id="radix-:R3denpnltf9f:"
                       class="flex flex-1 items-center justify-between py-4 font-medium transition-all hover:underline [&amp;[data-state=open]>svg]:rotate-180 text-left"
                       data-radix-collection-item="">
-                      How do I get started with your platform?
+                      What types of cryptocurrencies can I trade on DAYNE Exchange?
                       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                         stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
                         class="lucide lucide-chevron-down h-4 w-4 shrink-0 transition-transform duration-200">
@@ -123,7 +123,7 @@ import NavBarComponent from '@/components/layout/NavBarComponent.vue';
                       data-orientation="vertical" id="radix-:R5denpnltf9f:"
                       class="flex flex-1 items-center justify-between py-4 font-medium transition-all hover:underline [&amp;[data-state=open]>svg]:rotate-180 text-left"
                       data-radix-collection-item="">
-                      What payment methods do you accept?
+                      How long does it take to complete a trade?
                       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                         stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
                         class="lucide lucide-chevron-down h-4 w-4 shrink-0 transition-transform duration-200">
@@ -143,7 +143,7 @@ import NavBarComponent from '@/components/layout/NavBarComponent.vue';
                       data-orientation="vertical" id="radix-:R7denpnltf9f:"
                       class="flex flex-1 items-center justify-between py-4 font-medium transition-all hover:underline [&amp;[data-state=open]>svg]:rotate-180 text-left"
                       data-radix-collection-item="">
-                      How secure are your transactions?
+                      Do I need any prior experience to use DAYNE Exchange?
                       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                         stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
                         class="lucide lucide-chevron-down h-4 w-4 shrink-0 transition-transform duration-200">
